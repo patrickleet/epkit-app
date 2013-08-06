@@ -2,13 +2,25 @@
   "meteor": {},
   "dependencies": {
     "basePackages": {
-      "scss": {}
+      "handlebar-helpers": {},
+      "jquery-ui": {},
+      "jquery-imagesloaded": {}
     },
     "packages": {
-      "scss": {
-        "git": "https://github.com/fourseven/meteor-scss.git",
-        "tag": "v0.5.3",
-        "commit": "d3438b652f90ff2b418ac143fc3a746be2772e4b"
+      "handlebar-helpers": {
+        "git": "https://github.com/raix/Meteor-handlebar-helpers.git",
+        "tag": "v0.0.6",
+        "commit": "8ca9ab1edcbb7d1ef935d4ad8c7e32479ea70b24"
+      },
+      "jquery-ui": {
+        "git": "https://github.com/TimHeckel/meteor-jquery-ui.git",
+        "tag": "v1.9.2",
+        "commit": "c437d45edcf1367df8d5ffa8bad2867758030bd2"
+      },
+      "jquery-imagesloaded": {
+        "git": "https://github.com/waltyuyu/meteor-jquery-imagesloaded.git",
+        "tag": "v0.0.2",
+        "commit": "90bd930cb149c3b1f2f04e08e69e736b2ea1005a"
       }
     }
   }

@@ -1,5 +1,7 @@
 {
   "packages": {
-    "scss": {}
+    "handlebar-helpers": {},
+    "jquery-ui": {},
+    "jquery-imagesloaded": {}
   }
 }

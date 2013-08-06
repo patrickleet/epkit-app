@@ -16,7 +16,7 @@
 // Scaffolding
 // -------------------------
 
-@text-color:            #fff;
+@text-color:            #000;
 
 // Typography
 // -------------------------

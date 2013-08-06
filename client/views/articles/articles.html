@@ -1,0 +1,13 @@
+<template name="articles">
+  <div class="articles">
+    {{#each articles}}
+      {{#if isBio}}
+        {{> bio}}
+      {{/if}}
+      {{#if isShow}}
+        {{> show}}
+      {{/if}}
+    {{/each}}
+
+  </div>
+</template>
