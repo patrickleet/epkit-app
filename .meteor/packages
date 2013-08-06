@@ -7,3 +7,7 @@ insecure
 preserve-inputs
 less
 jquery-ui
+accounts-base
+accounts-password
+appcache
+email

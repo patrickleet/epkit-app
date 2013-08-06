@@ -6,6 +6,7 @@ Package.on_use(function (api) {
   api.use(['jquery', 'jquery-ui', 'jquery-imagesloaded', 'videojs'], 'client');
   api.add_files([
     'bigvideo.js',
-    'bigvideo.css'
+    'bigvideo.css',
+    'bigvideo.png'
   ], 'client');
 });

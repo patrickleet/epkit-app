@@ -1,4 +1,24 @@
+var dostArtistId;
+
+if (Artists.find().count() === 0) {
+  dostArtistId = Artists.insert({
+    name: 'Dost',
+    members: [
+
+    ]
+  });
+}
+
+if (Apps.find().count() === 0) {
+  Apps.insert({
+    category: 'home',
+    type: 'bigVideo',
+    name: 'Big Video'
+  });
+}
+
 if (Sections.find().count() === 0) {
+
   Sections.insert({
     title: 'Bio',
     articles: [
@@ -36,5 +56,5 @@ if (Sections.find().count() === 0) {
     ]
   });
 
-
 }
+

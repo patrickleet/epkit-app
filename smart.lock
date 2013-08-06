@@ -4,7 +4,9 @@
     "basePackages": {
       "handlebar-helpers": {},
       "jquery-ui": {},
-      "jquery-imagesloaded": {}
+      "jquery-imagesloaded": {},
+      "modernizr-meteor": {},
+      "roles": {}
     },
     "packages": {
       "handlebar-helpers": {
@@ -21,6 +23,16 @@
         "git": "https://github.com/waltyuyu/meteor-jquery-imagesloaded.git",
         "tag": "v0.0.2",
         "commit": "90bd930cb149c3b1f2f04e08e69e736b2ea1005a"
+      },
+      "modernizr-meteor": {
+        "git": "https://github.com/ckir/modernizr-meteor.git",
+        "tag": "v2.6.2",
+        "commit": "391ca2a3beff3cd2b0e1099cb2d744b5a2e8a73e"
+      },
+      "roles": {
+        "git": "https://github.com/alanning/meteor-roles.git",
+        "tag": "v1.0.5",
+        "commit": "a6e0ce33f8dc69a816165c458b138c2acb30ad0e"
       }
     }
   }
