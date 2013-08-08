@@ -9,7 +9,7 @@
     <file path="/site.less" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375660476606" ignored="false" />
     <file path="/main.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375930108313" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/style/effeckt/effeckt.scss.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375653454317" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/style/site.less.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375931199921" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/style/site.less.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375969598924" ignored="false" />
     <file path="/background.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375633747405" ignored="false" />
     <file path="/home.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375633912153" ignored="false" />
     <file path="/HomeApps.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375634207874" ignored="false" />
@@ -72,7 +72,7 @@
     <file path="/installed-apps.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375845864759" ignored="false" />
     <file path="/homeSection.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375921407903" ignored="false" />
     <file path="/homeSection.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375921511628" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/videojs/video-js.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375931199921" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/videojs/video-js.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375969598924" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/mongo-livedata/mongo_driver.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375921622940" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/minimongo/minimongo.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375921622940" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/videojs/video.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375847929112" ignored="false" />
@@ -80,7 +80,7 @@
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/views/apps/home/homeSection.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375921622940" ignored="false" />
     <file path="/mainRouter.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375922763046" ignored="false" />
     <file path="/header.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375931165031" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bigvideojs/bigvideo.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375931199921" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bigvideojs/bigvideo.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375969598924" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +173,7 @@
           <file leaf-file-name="header.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/client/views/includes/header.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -954,7 +954,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/views/includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
