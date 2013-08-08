@@ -10,7 +10,6 @@ if (Meteor.users.find().count() == 0) {
       email:"krishjargidar@gmail.com",
       roles:['admin']}
   ];
-  console.log("is this working");
 
   _.each(users, function (user) {
     var id;
@@ -25,7 +24,7 @@ if (Meteor.users.find().count() == 0) {
     if (user.roles.length > 0) {
       Roles.addUsersToRoles(id, user.roles);
       if (user.roles.indexOf('admin') >= 0) {
-        console.log(user.email + ' added as admin')
+        console.log(user.email + ' added as admin.')
         Accounts.sendEnrollmentEmail(id, user.email)
       }
     }

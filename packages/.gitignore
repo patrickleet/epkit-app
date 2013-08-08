@@ -7,3 +7,5 @@ modernizr-meteor
 roles
 observatory
 observatory-apollo
+router
+page-js-ie-support
