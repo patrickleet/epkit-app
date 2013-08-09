@@ -1,5 +1,9 @@
 <template name="myArtists">
-  {{#each artists}}
-    {{> artist}}
-  {{/each}}
+  <ul class="nav nav-pills nav-stacked">
+    {{#each artists}}
+      <li>
+        {{> artist}}
+      </li>
+    {{/each}}
+  </ul>
 </template>
