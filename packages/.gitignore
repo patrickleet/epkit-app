@@ -1,9 +1,7 @@
-scss
 handlebar-helpers
-videojs
 jquery-ui
 jquery-imagesloaded
 modernizr-meteor
 roles
-observatory
-observatory-apollo
+router
+page-js-ie-support
