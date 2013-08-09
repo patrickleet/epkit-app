@@ -9,7 +9,7 @@ Template.header.helpers({
     
     return active && 'active';
   },
-  artistName: function() {
-    return Session.get("artistName")
+  showNavBar: function() {
+    return Session.equals("epkMode", true);
   }
 });
