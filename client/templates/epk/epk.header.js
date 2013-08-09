@@ -8,5 +8,8 @@ Template.epkHeader.helpers({
     });
     
     return active && 'active';
+  },
+  artistName: function() {
+    return Session.get("artistName")
   }
 });
