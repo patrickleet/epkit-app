@@ -1,0 +1,9 @@
+<template name="homeApp">
+  {{#if $.Session.equals 'homeApp' 'bigVideo'}}
+    {{> bigVideoApp}}
+  {{/if}}
+  {{#if $.Session.equals 'homeApp' 'imageSlideshow'}}
+    {{> imageSlideShowApp}}
+  {{/if}}
+  {{> homeSection}}
+</template>

@@ -1,0 +1,1 @@
+InstalledApps = new Meteor.Collection('installed-apps');
