@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bce0539-bff2-4685-98f4-2f4660edcaaf" name="Default" comment="" />
+    <list default="true" id="7bce0539-bff2-4685-98f4-2f4660edcaaf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="epkit-app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376015139261" ignored="false" />
+    <file path="/Dummy.txt" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376084872266" ignored="false" />
     <file path="$PROJECT_DIR$/../dost/client/style/site.less" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375632229267" ignored="false" />
     <file path="/site.less" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376021510636" ignored="false" />
     <file path="/main.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376084340042" ignored="false" />
@@ -175,7 +179,7 @@
           <file leaf-file-name="router.js" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/client/routers/router.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="18" column="45" selection-start="386" selection-end="386" vertical-scroll-proportion="0.26573426">
+                <state line="18" column="45" selection-start="386" selection-end="386" vertical-scroll-proportion="0.31888112">
                   <folding />
                 </state>
               </provider>
@@ -193,7 +197,7 @@
           <file leaf-file-name="notifications.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/client/templates/notifications/notifications.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -202,7 +206,7 @@
           <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/client/templates/header/header.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="33" selection-start="126" selection-end="126" vertical-scroll-proportion="-2.5">
+                <state line="4" column="33" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -229,7 +233,7 @@
           <file leaf-file-name="user.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/client/templates/user/user.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="11" selection-start="87" selection-end="87" vertical-scroll-proportion="-2.5">
+                <state line="4" column="11" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -238,7 +242,7 @@
           <file leaf-file-name="myArtists.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/client/templates/artists/myArtists.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="2" column="16" selection-start="64" selection-end="64" vertical-scroll-proportion="-1.25">
+                <state line="2" column="16" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -247,7 +251,7 @@
           <file leaf-file-name="artist.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/client/templates/artists/artist.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="16" selection-start="41" selection-end="41" vertical-scroll-proportion="-0.625">
+                <state line="1" column="16" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -307,13 +311,13 @@
               <file leaf-file-name="homeSection.html" pinned="false" current="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/client/templates/apps/home/homeSection.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state line="3" column="38" selection-start="129" selection-end="129" vertical-scroll-proportion="-1.875">
+                    <state line="3" column="38" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
                       <folding />
                     </state>
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="main.html" pinned="false" current="true" current-in-tab="true">
+              <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/client/main.html">
                   <provider selected="true" editor-type-id="text-editor">
                     <state line="11" column="18" selection-start="498" selection-end="498" vertical-scroll-proportion="0.57093424">
@@ -325,7 +329,7 @@
               <file leaf-file-name="homeApp.html" pinned="false" current="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/client/templates/apps/home/homeApp.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+                    <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
                       <folding />
                     </state>
                   </provider>
@@ -334,7 +338,7 @@
               <file leaf-file-name="bigVideoApp.html" pinned="false" current="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/client/templates/apps/bigvideo/bigVideoApp.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+                    <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
                       <folding />
                     </state>
                   </provider>
@@ -380,10 +384,19 @@
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="errors.js" pinned="false" current="false" current-in-tab="true">
+              <file leaf-file-name="errors.js" pinned="false" current="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/client/templates/errors/errors.js">
                   <provider selected="true" editor-type-id="text-editor">
                     <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/.gitignore">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="1" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.04373178">
                       <folding />
                     </state>
                   </provider>
@@ -436,10 +449,17 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/client/templates/header/epkHeader.html" />
         <option value="$PROJECT_DIR$/client/templates/header/epkHeader.js" />
         <option value="$PROJECT_DIR$/client/style/site.less" />
         <option value="$PROJECT_DIR$/client/templates/apps/home/homeSection.html" />
@@ -455,6 +475,7 @@
         <option value="$PROJECT_DIR$/client/routers/router.js" />
         <option value="$PROJECT_DIR$/client/templates/apps/bigvideo/bigVideoApp.js" />
         <option value="$PROJECT_DIR$/client/main.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -462,7 +483,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -488,6 +509,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -820,7 +842,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -828,7 +849,7 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="preferences.sourceCode.General" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Microscope" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -929,7 +950,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27259684" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.276901" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1004,27 +1025,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/templates/notifications/notifications.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/templates/errors/errors.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/templates/artists/myArtists.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="32" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
@@ -1034,28 +1034,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/templates/artists/myArtists.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="64" selection-end="64" vertical-scroll-proportion="-1.25">
+        <state line="2" column="16" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/templates/user/user.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="11" selection-start="87" selection-end="87" vertical-scroll-proportion="-2.5">
+        <state line="4" column="11" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/templates/artists/artist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="41" selection-end="41" vertical-scroll-proportion="-0.625">
+        <state line="1" column="16" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/routers/router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="45" selection-start="386" selection-end="386" vertical-scroll-proportion="0.26573426">
+        <state line="18" column="45" selection-start="386" selection-end="386" vertical-scroll-proportion="0.31888112">
           <folding />
         </state>
       </provider>
@@ -1112,6 +1112,27 @@
     <entry file="file://$PROJECT_DIR$/client/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="18" selection-start="498" selection-end="498" vertical-scroll-proportion="0.57093424">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/errors/errors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/errors/errors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.04373178">
           <folding />
         </state>
       </provider>
