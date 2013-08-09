@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bce0539-bff2-4685-98f4-2f4660edcaaf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/main.html" afterPath="$PROJECT_DIR$/client/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/templates/artists/myArtists.html" afterPath="$PROJECT_DIR$/client/templates/artists/myArtists.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/templates/user/user.html" afterPath="$PROJECT_DIR$/client/templates/user/user.html" />
     </list>
     <ignored path="epkit-app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376085790073" ignored="false" />
     <file path="$PROJECT_DIR$/../dost/client/style/site.less" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375632229267" ignored="false" />
     <file path="/site.less" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376021510636" ignored="false" />
-    <file path="/main.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376084340042" ignored="false" />
+    <file path="/main.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376086656553" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/style/effeckt/effeckt.scss.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375653454317" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/style/site.less.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376010999016" ignored="false" />
     <file path="/background.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375633747405" ignored="false" />
@@ -93,7 +94,7 @@
     <file path="/spinner.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376010927058" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/README" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376014012201" ignored="false" />
     <file path="/router.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376026367185" ignored="false" />
-    <file path="/user.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376025947604" ignored="false" />
+    <file path="/user.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376086795297" ignored="false" />
     <file path="/login.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376086148475" ignored="false" />
     <file path="/epkHeader.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376025560203" ignored="false" />
     <file path="/epkHeader.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376025248115" ignored="false" />
@@ -106,7 +107,7 @@
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/meteor/client_environment.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376024507360" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/meteor/server_environment.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376024507360" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/templates/header/template.header.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376025258396" ignored="false" />
-    <file path="/myArtists.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376025964642" ignored="false" />
+    <file path="/myArtists.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376086980965" ignored="false" />
     <file path="/myArtists.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376026022159" ignored="false" />
     <file path="/artist.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376026238174" ignored="false" />
     <file path="/.gitignore" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376086322717" ignored="false" />
@@ -182,16 +183,16 @@
       <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="17" selection-start="113" selection-end="113" vertical-scroll-proportion="-3.75">
+            <state line="8" column="4" selection-start="144" selection-end="144" vertical-scroll-proportion="-5.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="22" selection-start="42" selection-end="42" vertical-scroll-proportion="0.019379845">
+            <state line="1" column="22" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -201,6 +202,42 @@
         <entry file="file://$PROJECT_DIR$/.idea/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/templates/user/user.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="27" selection-start="119" selection-end="119" vertical-scroll-proportion="-2.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myArtists.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/templates/artists/myArtists.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="6" selection-start="129" selection-end="129" vertical-scroll-proportion="0.1">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="artist.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/templates/artists/artist.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="2" selection-start="27" selection-end="27" vertical-scroll-proportion="-0.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myArtists.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/templates/artists/myArtists.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -230,16 +267,16 @@
         <option value="$PROJECT_DIR$/client/templates/epk/epk.header.js" />
         <option value="$PROJECT_DIR$/client/templates/header/header.js" />
         <option value="$PROJECT_DIR$/client/templates/header/header.html" />
-        <option value="$PROJECT_DIR$/client/templates/artists/myArtists.html" />
         <option value="$PROJECT_DIR$/client/templates/artists/myArtists.js" />
-        <option value="$PROJECT_DIR$/client/templates/user/user.html" />
         <option value="$PROJECT_DIR$/client/templates/artists/artist.html" />
         <option value="$PROJECT_DIR$/client/routers/router.js" />
         <option value="$PROJECT_DIR$/client/templates/apps/bigvideo/bigVideoApp.js" />
-        <option value="$PROJECT_DIR$/client/main.html" />
         <option value="$PROJECT_DIR$/client/templates/login/login.html" />
         <option value="$PROJECT_DIR$/.idea/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/client/main.html" />
+        <option value="$PROJECT_DIR$/client/templates/user/user.html" />
+        <option value="$PROJECT_DIR$/client/templates/artists/myArtists.html" />
       </list>
     </option>
   </component>
@@ -322,6 +359,28 @@
               <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -342,6 +401,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="artists" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -545,32 +626,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/templates/artists/artist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="41" selection-end="41" vertical-scroll-proportion="0.02">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/templates/artists/myArtists.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="32" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/routers/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="45" selection-start="386" selection-end="386" vertical-scroll-proportion="0.35104895" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/templates/apps/home/homeSection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="40" selection-start="101" selection-end="101" vertical-scroll-proportion="0.03875969">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/packages/handlebar-helpers/smart.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="1" selection-start="0" selection-end="358" vertical-scroll-proportion="-0.625">
@@ -627,13 +682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="113" selection-end="113" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/templates/login/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="11" selection-start="140" selection-end="140" vertical-scroll-proportion="-3.125">
@@ -650,7 +698,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="22" selection-start="42" selection-end="42" vertical-scroll-proportion="0.019379845">
+        <state line="1" column="22" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="144" selection-end="144" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/user/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="27" selection-start="119" selection-end="119" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/artists/artist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="2" selection-start="27" selection-end="27" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/artists/myArtists.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/artists/myArtists.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="129" selection-end="129" vertical-scroll-proportion="0.1">
           <folding />
         </state>
       </provider>
