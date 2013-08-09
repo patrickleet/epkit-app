@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/Font-Awesome" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/bootstrap" vcs="Git" />
   </component>
 </project>
 
