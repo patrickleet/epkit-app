@@ -12,7 +12,7 @@ if (Meteor.users.find().count() == 0) {
     },
     {
       name: "Manny Sani",
-      email:"krishjargidar@gmail.com",
+      email:"sanimanny@gmail.com",
       roles:['admin']
     },
     {
