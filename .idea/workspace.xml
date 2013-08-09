@@ -4,25 +4,25 @@
     <list default="true" id="7bce0539-bff2-4685-98f4-2f4660edcaaf" name="Default" comment="" />
     <ignored path="epkit-app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375768177083" ignored="false" />
+    <file path="/Dummy.txt" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375921965883" ignored="false" />
     <file path="$PROJECT_DIR$/../dost/client/style/site.less" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375632229267" ignored="false" />
-    <file path="/site.less" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375660476606" ignored="false" />
-    <file path="/main.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375762869018" ignored="false" />
+    <file path="/site.less" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376007233153" ignored="false" />
+    <file path="/main.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375930108313" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/style/effeckt/effeckt.scss.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375653454317" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/style/site.less.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375658025314" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/style/site.less.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375969598924" ignored="false" />
     <file path="/background.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375633747405" ignored="false" />
     <file path="/home.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375633912153" ignored="false" />
     <file path="/HomeApps.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375634207874" ignored="false" />
     <file path="$PROJECT_DIR$/../Microscope/collections/comments.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375633971325" ignored="false" />
     <file path="$PROJECT_DIR$/../Microscope/server/fixtures.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375635481048" ignored="false" />
-    <file path="/fixtures.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375764894349" ignored="false" />
+    <file path="/fixtures.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375919620982" ignored="false" />
     <file path="/epks.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375637387346" ignored="false" />
     <file path="/epkItem.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375637403148" ignored="false" />
     <file path="/entry.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375637501723" ignored="false" />
     <file path="/articles.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375652496756" ignored="false" />
     <file path="/sections.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375654416977" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/views/sections/template.sections.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375645430469" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/templating/deftemplate.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375654403995" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/templating/deftemplate.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376002701899" ignored="false" />
     <file path="/section.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375645863860" ignored="false" />
     <file path="/article.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375651881465" ignored="false" />
     <file path="/article.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375651771132" ignored="false" />
@@ -32,36 +32,57 @@
     <file path="/showArticle.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375653571220" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/views/sections/sections.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375654308315" ignored="false" />
     <file path="/bio.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375653163975" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/views/articles/articles.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375652734732" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/views/articles/template.articles.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375652602500" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/views/articles/articles.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375847954992" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/views/articles/template.articles.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375847954992" ignored="false" />
     <file path="/Sections.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375654148566" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/collections/Sections.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375654432727" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/collections/Sections.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375654432727" ignored="false" />
-    <file path="/publications.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375768725970" ignored="false" />
+    <file path="/publications.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375770532606" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/livedata/livedata_server.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375763854979" ignored="false" />
-    <file path="/main.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375764463267" ignored="false" />
+    <file path="/main.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375796813611" ignored="false" />
     <file path="/package.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375752581568" ignored="false" />
     <file path="/smart.json" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375767054512" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/startup/startup_client.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375766193996" ignored="false" />
     <file path="/bigvideo.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375747838685" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/meteor/server_environment.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375766350354" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/meteor/client_environment.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375766350354" ignored="false" />
     <file path="$PROJECT_DIR$/../big-video/example-ambient-touch.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375763270996" ignored="false" />
     <file path="/Apps.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375763448857" ignored="false" />
-    <file path="/bigVideoApp.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375764188217" ignored="false" />
+    <file path="/bigVideoApp.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375796536744" ignored="false" />
     <file path="/Artists.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375765644048" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/mongo-livedata/collection.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375764923693" ignored="false" />
     <file path="/packages" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375765464114" ignored="false" />
-    <file path="/accounts.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375767444436" ignored="false" />
+    <file path="/accounts.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375771083357" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/accounts-password/password_server.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375766193996" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/accounts-password/password_client.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375765826370" ignored="false" />
-    <file path="/a.dummy" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375766106445" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery/jquery.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375766193996" ignored="false" />
+    <file path="/a.dummy" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376002326493" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery/jquery.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375921622940" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/reactive-dict/reactive-dict.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375766193996" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/observatory-apollo/TLog.coffee.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375766193996" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/observatory-apollo/TLog.coffee.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375766193996" ignored="false" />
     <file path="/Makefile" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375768515686" ignored="false" />
     <file path="$USER_HOME$/Epkit/epkit/epkit/app/server/publications.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375768797661" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/server/fixtures.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376002701899" ignored="false" />
+    <file path="/InstalledApps.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375770233316" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375770612433" ignored="false" />
+    <file path="/bigVideoApp.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375796701853" ignored="false" />
+    <file path="/homeApp.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375847712069" ignored="false" />
+    <file path="/homeApp.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375847770898" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/collections/InstalledApps.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375795490222" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/collections/InstalledApps.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375772223882" ignored="false" />
+    <file path="/imageSlideShowApp.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375797032332" ignored="false" />
+    <file path="/installed-apps.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375845864759" ignored="false" />
+    <file path="/homeSection.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375921407903" ignored="false" />
+    <file path="/homeSection.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375921511628" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/videojs/video-js.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375969598924" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/mongo-livedata/mongo_driver.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375921622940" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/minimongo/minimongo.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375921622940" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/videojs/video.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375847929112" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/views/apps/home/template.homeSection.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375921622940" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/views/apps/home/homeSection.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375921622940" ignored="false" />
+    <file path="/mainRouter.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375922763046" ignored="false" />
+    <file path="/header.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376003130033" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bigvideojs/bigvideo.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375969598924" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/lib/bootstrap.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376005545617" ignored="false" />
+    <file path="/font-awesome.less" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376007188786" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,62 +145,89 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="publications.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/server/publications.js">
+          <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/client/views/header/header.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="10" column="3" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0">
+                <state line="25" column="22" selection-start="974" selection-end="974" vertical-scroll-proportion="-15.625">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Apps.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/collections/Apps.js">
+          <file leaf-file-name="site.less" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/client/style/site.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0">
+                <state line="1" column="47" selection-start="94" selection-end="94" vertical-scroll-proportion="0.021276595">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="fixtures.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/server/fixtures.js">
+          <file leaf-file-name="font-awesome.lessimport" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/client/style/font-awesome/font-awesome.lessimport">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+                <state line="0" column="57" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="accounts.js" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/server/accounts.js">
+          <file leaf-file-name="bigVideoApp.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/client/views/apps/bigvideo/bigVideoApp.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="26" column="22" selection-start="579" selection-end="579" vertical-scroll-proportion="0.5193076">
+                <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="smart.json" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/smart.json">
+          <file leaf-file-name="fonts.lessimport" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/client/style/bootstrap/epik/fonts.lessimport">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="2" column="26" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="helpers.operators.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/handlebar-helpers/helpers.operators.js">
+          <file leaf-file-name="bootstrap.lessimport" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/client/style/bootstrap/epik/bootstrap.lessimport">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="2" column="0" selection-start="188" selection-end="195" vertical-scroll-proportion="0.0">
+                <state line="12" column="29" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="accountEnrollment.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/server/accountEnrollment.js">
+          <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/packages/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="4" column="5" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="bootstrap.less" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/packages/Font-Awesome/less/bootstrap.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="font-awesome.less" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/packages/Font-Awesome/less/font-awesome.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="variables.lessimport" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/client/style/bootstrap/epik/variables.lessimport">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
                   <folding />
@@ -190,71 +238,133 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file leaf-file-name="package.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/packages/handlebar-helpers/package.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="package.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/packages/bigvideojs/package.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="18" selection-start="604" selection-end="604" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="epkit-app.iml" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/epkit-app.iml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Makefile" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Makefile">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="10" column="18" selection-start="119" selection-end="119" vertical-scroll-proportion="0.19973369">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="smart.json" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/packages/handlebar-helpers/smart.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="1" selection-start="0" selection-end="358" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="bigvideo.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/packages/bigvideojs/bigvideo.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="bigvideo.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/packages/bigvideojs/bigvideo.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="239" column="9" selection-start="7005" selection-end="7005" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
+        <splitter split-orientation="vertical" split-proportion="0.5">
+          <split-first>
+            <leaf>
+              <file leaf-file-name="package.js" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/packages/handlebar-helpers/package.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="package.js" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/packages/bigvideojs/package.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="9" column="18" selection-start="604" selection-end="604" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="epkit-app.iml" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/epkit-app.iml">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="Makefile" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/Makefile">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="10" column="24" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="smart.json" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/packages/handlebar-helpers/smart.json">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="9" column="1" selection-start="0" selection-end="358" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="bigvideo.css" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/packages/bigvideojs/bigvideo.css">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="bigvideo.js" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/packages/bigvideojs/bigvideo.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="239" column="9" selection-start="7005" selection-end="7005" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="homeSection.html" pinned="false" current="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/client/views/apps/home/homeSection.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="4" column="31" selection-start="152" selection-end="152" vertical-scroll-proportion="0.18461539">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf>
+              <file leaf-file-name="sections.js" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/client/views/sections/sections.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="articles.js" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/client/views/articles/articles.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="fixtures.js" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/server/fixtures.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="60" column="17" selection-start="1253" selection-end="1253" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="errors.js" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/client/collections/errors.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="errors.html" pinned="false" current="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/client/views/errors/errors.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
       </split-second>
     </splitter>
   </component>
@@ -266,22 +376,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/packages/bigvideojs/bigvideo.js" />
-        <option value="$PROJECT_DIR$/packages/videojs/package.js" />
-        <option value="$PROJECT_DIR$/packages/bigvideojs/package.js" />
-        <option value="$PROJECT_DIR$/collections/Apps.js" />
-        <option value="$PROJECT_DIR$/client/main.html" />
-        <option value="$PROJECT_DIR$/client/views/apps/bigvideo/bigVideoApp.js" />
-        <option value="$PROJECT_DIR$/server/publications.js" />
-        <option value="$PROJECT_DIR$/client/main.js" />
-        <option value="$PROJECT_DIR$/.meteor/packages" />
-        <option value="$PROJECT_DIR$/collections/Artists.js" />
+        <option value="$PROJECT_DIR$/client/views/apps/home/homeApp.js" />
+        <option value="$PROJECT_DIR$/client/views/apps/home/homeApp.html" />
         <option value="$PROJECT_DIR$/server/fixtures.js" />
-        <option value="$PROJECT_DIR$/smart.lock" />
-        <option value="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/handlebar-helpers/helpers.operators.js" />
-        <option value="$PROJECT_DIR$/smart.json" />
-        <option value="$PROJECT_DIR$/server/accounts.js" />
-        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/client/main.js" />
+        <option value="$PROJECT_DIR$/client/views/apps/home/homeSection.html" />
+        <option value="$PROJECT_DIR$/client/views/apps/home/homeSection.js" />
+        <option value="$PROJECT_DIR$/client/style/bootstrap/epik/navbar.lessimport" />
+        <option value="$PROJECT_DIR$/client/routers/mainRouter.js" />
+        <option value="$PROJECT_DIR$/client/main.html" />
+        <option value="$PROJECT_DIR$/client/views/includes/header.html" />
+        <option value="$PROJECT_DIR$/client/views/apps/bigvideo/bigVideoApp.html" />
+        <option value="$PROJECT_DIR$/client/views/header/header.html" />
+        <option value="$PROJECT_DIR$/client/style/bootstrap/epik/bootstrap.lessimport" />
+        <option value="$PROJECT_DIR$/packages/.gitignore" />
+        <option value="$PROJECT_DIR$/client/style/font-awesome/font-awesome.less" />
+        <option value="$PROJECT_DIR$/client/style/site.less" />
       </list>
     </option>
   </component>
@@ -315,6 +425,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -358,13 +469,150 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="collections" />
+              <option name="myItemId" value="packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Font-Awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Font-Awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bigvideojs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epik" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -384,13 +632,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/lib" />
+      <recent name="$PROJECT_DIR$/client/collections" />
+      <recent name="$PROJECT_DIR$/client/views" />
       <recent name="$PROJECT_DIR$/server" />
       <recent name="$PROJECT_DIR$/packages/videojs" />
-      <recent name="$PROJECT_DIR$/packages/bigvideojs" />
-      <recent name="$PROJECT_DIR$/client/lib" />
-      <recent name="$PROJECT_DIR$/packages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/views/errors" />
+      <recent name="$PROJECT_DIR$/client/views/header" />
+      <recent name="$PROJECT_DIR$/client/views/apps/home" />
       <recent name="$PROJECT_DIR$/client/style" />
       <recent name="$PROJECT_DIR$/client/views/articles" />
     </key>
@@ -469,7 +720,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26040173" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26398852" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -544,110 +795,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/collections/Apps.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/accountEnrollment.js">
+    <entry file="file://$PROJECT_DIR$/client/collections/errors.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/publications.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/fixtures.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/handlebar-helpers/helpers.operators.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="188" selection-end="195" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/smart.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="40" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/smart.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.meteor/packages">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/accounts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="22" selection-start="579" selection-end="579" vertical-scroll-proportion="0.5193076">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/handlebar-helpers/package.js">
+    <entry file="file://$PROJECT_DIR$/client/views/errors/errors.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packages/bigvideojs/package.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="18" selection-start="604" selection-end="604" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/epkit-app.iml">
+    <entry file="file://$PROJECT_DIR$/client/views/errors/errors.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packages/handlebar-helpers/smart.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="0" selection-end="358" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/bigvideojs/bigvideo.css">
+    <entry file="file://$PROJECT_DIR$/client/views/header/header.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packages/bigvideojs/bigvideo.js">
+    <entry file="file://$PROJECT_DIR$/client/lib/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="239" column="9" selection-start="7005" selection-end="7005" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Makefile">
+    <entry file="file://$PROJECT_DIR$/client/views/apps/home/homeApp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="18" selection-start="119" selection-end="119" vertical-scroll-proportion="0.19973369">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/views/header/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="22" selection-start="974" selection-end="974" vertical-scroll-proportion="-15.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/style/bootstrap/epik/fonts.lessimport">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/views/apps/bigvideo/bigVideoApp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/style/bootstrap/epik/variables.lessimport">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="5" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/Font-Awesome/less/bootstrap.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/Font-Awesome/less/font-awesome.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/style/bootstrap/epik/bootstrap.lessimport">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="29" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/style/font-awesome/font-awesome.lessimport">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="57" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/style/site.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="47" selection-start="94" selection-end="94" vertical-scroll-proportion="0.021276595">
           <folding />
         </state>
       </provider>

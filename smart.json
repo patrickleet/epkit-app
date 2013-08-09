@@ -4,6 +4,7 @@
     "jquery-ui": {},
     "jquery-imagesloaded": {},
     "modernizr-meteor": {},
-    "roles": {}
+    "roles": {},
+    "router": {}
   }
 }
