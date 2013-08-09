@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375921965883" ignored="false" />
     <file path="$PROJECT_DIR$/../dost/client/style/site.less" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375632229267" ignored="false" />
-    <file path="/site.less" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375660476606" ignored="false" />
+    <file path="/site.less" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376007233153" ignored="false" />
     <file path="/main.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375930108313" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/style/effeckt/effeckt.scss.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375653454317" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/style/site.less.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375969598924" ignored="false" />
@@ -82,6 +82,7 @@
     <file path="/header.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376003130033" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bigvideojs/bigvideo.css" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1375969598924" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/lib/bootstrap.js" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376005545617" ignored="false" />
+    <file path="/font-awesome.less" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376007188786" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,19 +154,19 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="bootstrap.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/client/lib/bootstrap.js">
+          <file leaf-file-name="site.less" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/client/style/site.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                <state line="1" column="47" selection-start="94" selection-end="94" vertical-scroll-proportion="0.021276595">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="site.less" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/client/style/site.less">
+          <file leaf-file-name="font-awesome.lessimport" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/client/style/font-awesome/font-awesome.lessimport">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="2" column="0" selection-start="48" selection-end="413" vertical-scroll-proportion="0.0">
+                <state line="0" column="57" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -175,15 +176,6 @@
             <entry file="file://$PROJECT_DIR$/client/views/apps/bigvideo/bigVideoApp.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="homeApp.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/client/views/apps/home/homeApp.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
                   <folding />
                 </state>
               </provider>
@@ -207,10 +199,28 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/packages/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="5" selection-start="70" selection-end="70" vertical-scroll-proportion="0.082417585">
+                <state line="4" column="5" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="bootstrap.less" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/packages/Font-Awesome/less/bootstrap.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="font-awesome.less" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/packages/Font-Awesome/less/font-awesome.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -366,7 +376,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/client/views/subscriptions/installed-apps.js" />
         <option value="$PROJECT_DIR$/client/views/apps/home/homeApp.js" />
         <option value="$PROJECT_DIR$/client/views/apps/home/homeApp.html" />
         <option value="$PROJECT_DIR$/server/fixtures.js" />
@@ -377,11 +386,12 @@
         <option value="$PROJECT_DIR$/client/routers/mainRouter.js" />
         <option value="$PROJECT_DIR$/client/main.html" />
         <option value="$PROJECT_DIR$/client/views/includes/header.html" />
-        <option value="$PROJECT_DIR$/client/style/site.less" />
         <option value="$PROJECT_DIR$/client/views/apps/bigvideo/bigVideoApp.html" />
         <option value="$PROJECT_DIR$/client/views/header/header.html" />
         <option value="$PROJECT_DIR$/client/style/bootstrap/epik/bootstrap.lessimport" />
         <option value="$PROJECT_DIR$/packages/.gitignore" />
+        <option value="$PROJECT_DIR$/client/style/font-awesome/font-awesome.less" />
+        <option value="$PROJECT_DIR$/client/style/site.less" />
       </list>
     </option>
   </component>
@@ -460,6 +470,144 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Font-Awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Font-Awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bigvideojs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epkit-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epik" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -565,14 +713,14 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26398852" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26398852" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -647,20 +795,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/views/articles/articles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/fixtures.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="17" selection-start="1253" selection-end="1253" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/collections/errors.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -692,13 +826,6 @@
     <entry file="file://$PROJECT_DIR$/client/lib/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/style/site.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="48" selection-end="413" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -738,6 +865,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/packages/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="5" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/Font-Awesome/less/bootstrap.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/Font-Awesome/less/font-awesome.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/client/style/bootstrap/epik/bootstrap.lessimport">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="29" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
@@ -745,9 +893,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packages/.gitignore">
+    <entry file="file://$PROJECT_DIR$/client/style/font-awesome/font-awesome.lessimport">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="5" selection-start="70" selection-end="70" vertical-scroll-proportion="0.082417585">
+        <state line="0" column="57" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/style/site.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="47" selection-start="94" selection-end="94" vertical-scroll-proportion="0.021276595">
           <folding />
         </state>
       </provider>
