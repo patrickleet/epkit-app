@@ -6,8 +6,8 @@ if (Meteor.users.find().count() == 0) {
       roles:['admin']
     },
     {
-      name: "Krish Jargidar",
-      email:"krishjargidar@gmail.com",
+      name: "Krish Jagirdar",
+      email:"krishjagirdar@gmail.com",
       roles:['admin']
     },
     {
