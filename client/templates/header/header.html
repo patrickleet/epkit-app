@@ -12,6 +12,9 @@
 
         <!-- Be sure to leave the brand out there if you want it shown -->
         <a class="navbar-brand" href="{{accountPath}}">Epkit</a>
+        <ul class="nav navbar pull-right">
+          {{loginButtons}}
+        </ul>
 
         <!-- Place everything within .nav-collapse to hide it until above 768px -->
         <div class="nav-collapse collapse navbar-responsive-collapse">
@@ -22,10 +25,9 @@
               </li>
             {{/if}}
           </ul>
-          <ul class="nav pull-right">
-            <li>{{loginButtons}}</li>
-          </ul>
         </div><!-- /.nav-collapse -->
+
+
       </div><!-- /.container -->
     </header><!-- /.navbar -->
   {{/if}}

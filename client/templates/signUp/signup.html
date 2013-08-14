@@ -1,0 +1,16 @@
+<template name="signUp">
+  <section id="signUp" class="jumbotron">
+    <p class="lead">Welcome to</p>
+    <h1>Epkit</h1>
+    {{#if $.Session.equals 'signUpState' 'sign-up'}}
+      <form id="signup-buttons">
+        <input type="email" placeholder="Email" name="email">
+        <button class="btn btn-primary" id="#get-started">Sign up for beta</button>
+      </form>
+    {{/if}}
+    {{#if $.Session.equals 'signUpState' 'signed-up'}}
+      <p>Thanks for signing up.</p>
+      <p>Keep an eye out for an invitation.</p>
+    {{/if}}
+  </section>
+</template>

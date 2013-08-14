@@ -4,3 +4,6 @@
 [submodule "packages/Font-Awesome"]
 	path = packages/Font-Awesome
 	url = git@github.com:FortAwesome/Font-Awesome.git
+[submodule "packages/accounts-ui-bootstrap-3"]
+	path = packages/accounts-ui-bootstrap-3
+	url = git@github.com:patrickleet/meteor-accounts-ui-bootstrap-3.git

@@ -5,3 +5,6 @@ modernizr-meteor
 roles
 router
 page-js-ie-support
+spin
+presence
+fastclick

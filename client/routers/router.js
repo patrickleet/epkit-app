@@ -26,7 +26,8 @@ Meteor.Router.filters({
     else if (Meteor.loggingIn())
       return 'loading';
     else
-      return 'login';
+      Session.set('signUpState', 'sign-up');
+      return 'signUp';
   },
 
   'clearErrors': function(page) {

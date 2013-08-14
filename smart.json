@@ -5,6 +5,9 @@
     "jquery-imagesloaded": {},
     "modernizr-meteor": {},
     "roles": {},
-    "router": {}
+    "router": {},
+    "spin": {},
+    "presence": {},
+    "fastclick": {}
   }
 }
