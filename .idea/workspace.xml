@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bce0539-bff2-4685-98f4-2f4660edcaaf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/templates/header/header.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/bootstrap/package.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/accounts-ui-bootstrap-3" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/bootstrap" afterPath="$PROJECT_DIR$/packages/bootstrap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/.gitignore" afterPath="$PROJECT_DIR$/packages/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitmodules" afterPath="$PROJECT_DIR$/.gitmodules" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/templates/header/header.html" afterPath="$PROJECT_DIR$/client/templates/header/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/packages" afterPath="$PROJECT_DIR$/.meteor/packages" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/smart.json" afterPath="$PROJECT_DIR$/smart.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/smart.lock" afterPath="$PROJECT_DIR$/smart.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="epkit-app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -117,6 +108,7 @@
     <file path="/login_buttons_dropdown.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376343341110" ignored="false" />
     <file path="/signUp.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376442125718" ignored="false" />
     <file path="/login_buttons_dialogs.html" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376444434093" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="7bce0539-bff2-4685-98f4-2f4660edcaaf" time="1376449284597" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -515,7 +507,7 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
