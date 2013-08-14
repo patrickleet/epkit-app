@@ -8,6 +8,7 @@
     "router": {},
     "spin": {},
     "presence": {},
-    "fastclick": {}
+    "fastclick": {},
+    "accounts-soundcloud": {}
   }
 }

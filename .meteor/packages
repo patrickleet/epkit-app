@@ -8,6 +8,7 @@ less
 jquery-ui
 accounts-base
 accounts-password
+accounts-ui
 appcache
 email
 audit-argument-checks

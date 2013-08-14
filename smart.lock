@@ -9,9 +9,9 @@
       "roles": {},
       "router": {},
       "spin": {},
-      "accounts-ui-bootstrap-3": {},
       "presence": {},
-      "fastclick": {}
+      "fastclick": {},
+      "accounts-soundcloud": {}
     },
     "packages": {
       "handlebar-helpers": {
@@ -49,11 +49,6 @@
         "tag": "v0.2.0",
         "commit": "fd3a2871a69442848b4b4e74f5e1ae28fa4a95a4"
       },
-      "accounts-ui-bootstrap-3": {
-        "git": "https://github.com/mangasocial/meteor-accounts-ui-bootstrap-3.git",
-        "tag": "v0.2.0",
-        "commit": "77d86237dfebbd446a863b03d0f321947b23edfe"
-      },
       "presence": {
         "git": "https://github.com/tmeasday/meteor-presence.git",
         "tag": "v0.2.3",
@@ -64,10 +59,20 @@
         "tag": "v0.6.7",
         "commit": "fcb3bfd34d9f6874e626b4e24e8f54107938db41"
       },
+      "accounts-soundcloud": {
+        "git": "https://github.com/sylvaingi/meteor-accounts-soundcloud.git",
+        "tag": "v0.1.1",
+        "commit": "2a08737186d86ab5c7b21a846a90f26edcd967fe"
+      },
       "page-js-ie-support": {
         "git": "https://github.com/tmeasday/meteor-page-js-ie-support.git",
         "tag": "v1.3.5",
         "commit": "b99ed8380aefd10b2afc8f18d9eed4dd0d8ea9cb"
+      },
+      "soundcloud": {
+        "git": "https://github.com/sylvaingi/meteor-soundcloud.git",
+        "tag": "v0.1.0",
+        "commit": "bca726cc92d1f24ef252f38a62837dd0501e798c"
       }
     }
   }
